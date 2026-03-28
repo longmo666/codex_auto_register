@@ -1,6 +1,6 @@
 # codex_auto_register
 
-基于 DuckMail 的 ChatGPT / Codex 自动注册与 OAuth Token 生成工具集。
+基于 DuckMail 的 ChatGPT / Codex 注册与 OAuth Token 生成工具集。
 
 ## 致谢
 
@@ -121,3 +121,4 @@ chatgpt_register/
 - 需要可用代理，否则注册、OAuth 和 CPA 自动刷新都会失败
 - `config.json` 与 `codex/config.json` 仅保留在本地使用，不应提交
 - 如果你使用 CLIProxyAPI，建议保持 `refresh_token` 与 token JSON 文件完整保存
+- 这只是个测试脚本
